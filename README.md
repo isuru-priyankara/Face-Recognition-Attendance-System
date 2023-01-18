@@ -9,3 +9,7 @@ In this attendance system, we will not only identify the person, but also store 
 Arduino_Uno
 
 ![Arduino_Uno](https://user-images.githubusercontent.com/121779329/213203164-a3fe2ea3-b0b8-4a9f-bbb0-0790d5512f4f.jpg)
+
+ESP32-CAM
+
+![esp32cam](https://user-images.githubusercontent.com/121779329/213212301-7bbbc728-5d7f-4c50-9339-965b493afe10.jpg)
